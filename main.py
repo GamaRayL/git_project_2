@@ -1,8 +1,9 @@
-from funcs import _sum
+from funcs import _sum, _sub
 
 
 def print_hi(name):
     print(_sum())
+    print(_sub())
 
 
 # Press the green button in the gutter to run the script.
